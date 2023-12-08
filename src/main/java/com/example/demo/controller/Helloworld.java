@@ -9,6 +9,7 @@ public class Helloworld {
     public String helloworld(){
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("push commit");
         return "helloworld!!!,hello,git!,hello,git4";
     }
 }
