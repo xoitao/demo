@@ -10,6 +10,7 @@ public class Helloworld {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push commit");
+        System.out.println("pull commit");
         return "helloworld!!!,hello,git!,hello,git4";
     }
 }
